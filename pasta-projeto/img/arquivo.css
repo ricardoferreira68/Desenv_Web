@@ -1,0 +1,6 @@
+p, li, h1, td {
+    color: red;
+    width: 500px;
+    border: 2px solid blue;
+    font-size: 1em;
+  }
